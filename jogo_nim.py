@@ -38,3 +38,7 @@ print("Bem-vindo ao jogo do NIM! Escolha:")
 
 print("1 - para jogar uma partida isolada")
 print("2 - para jogar um campeonato 2")
+
+
+y.y
+
