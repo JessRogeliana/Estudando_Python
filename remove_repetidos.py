@@ -1,9 +1,7 @@
 def remove_repetidos(lista):
     lista.sort()
     if (len(lista) > 1):
-        lista.sort()
         a = []
-        
         for x in lista:
             if x not in a:
                 a.append(x) 
